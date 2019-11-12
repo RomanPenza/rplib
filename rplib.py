@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 29 09:25:16 2019
-
-@author: ROPE4
-"""
 import pandas as pd
 import os
 import datetime
